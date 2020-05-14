@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Grocery List
+//  **********
 //
 //  Created by Eric Guzman on 4/1/20.
 //  Copyright © 2020 Eric Guzman. All rights reserved.
